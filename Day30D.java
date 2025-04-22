@@ -1,0 +1,12 @@
+//Activity 4
+class Day30D{
+
+public static void main(String[] args){
+
+
+double d=56.09;
+int i=(int)d;
+System.out.println(i);
+}
+
+}
